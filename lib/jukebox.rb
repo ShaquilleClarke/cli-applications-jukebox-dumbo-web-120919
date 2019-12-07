@@ -42,7 +42,7 @@ def exit
   puts "Goodbye"
 end
 
-def run(songs)
+def run
   while true do
     puts "Please enter a command:"
     user_input = gets.chomp
